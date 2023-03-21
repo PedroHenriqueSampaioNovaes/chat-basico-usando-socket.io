@@ -1,0 +1,14 @@
+#messages {
+  background: aliceblue;
+  width: 500px;
+  height: 700px;
+}
+
+.main-user {
+  background-color: rgb(161, 211, 255);
+  font-weight: bold;
+}
+
+.user {
+  text-align: right;
+}
